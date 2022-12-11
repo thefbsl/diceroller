@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">diceRoller</string>
+    <string name="roll_btn">Roll</string>
+    <string name="user_name">Tastan Arman</string>
+    <string name="roll_num">1</string>
+    <string name="predict">Input your prediction</string>
+</resources>
